@@ -1,0 +1,23 @@
+{
+  "name": "anti-apple",
+  "version": "1.0.0",
+  "description": "Anti-Apple, Do not allow Apple devices to run code",
+  "main": "anti-apple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengming00/Anti-Apple.git"
+  },
+  "keywords": [
+    "anti",
+    "apple"
+  ],
+  "author": "zengming00",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zengming00/Anti-Apple/issues"
+  },
+  "homepage": "https://github.com/zengming00/Anti-Apple#readme"
+}
